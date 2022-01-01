@@ -1,4 +1,4 @@
-# News App
+# Shopping App
 
 Flutter project to display producats to the clients and add items to the cart and use braintree payment gateway to complete the process.
 
