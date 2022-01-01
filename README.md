@@ -9,7 +9,7 @@ This app is using `ASP.net` Backend to fetch data from the server and display on
 ![check_commit](https://img.shields.io/github/checks-status/ABDULKARIMALBAIK/Shopping/main?color=blue&label=check_commit&logo=github&style=flat-square)
 ![license](https://img.shields.io/github/license/ABDULKARIMALBAIK/Shopping?color=yellow&label=license&logo=github&style=flat-square)
 ![repo_size](https://img.shields.io/github/languages/code-size/ABDULKARIMALBAIK/Shopping?color=red&label=repo_size&logo=github&style=flat-square)
-![Twitter](https://img.shields.io/twitter/follow/@abdalka10233202?label=Twitter&logo=twitter&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/abdalka10233202)
 
 
 
